@@ -217,6 +217,7 @@ public class ServicioLista {
         ServicioLista.eliminarNodoPosicion();
         ServicioLista.mostrarLista();
         scanner.close();
+        System.out.println("hola");
 
     }
 
